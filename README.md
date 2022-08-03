@@ -6,10 +6,10 @@ A very simple module just to make Greenify work as a rom-integrated (privileged)
 
 Note: 
 - Follow [mm recovery module](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases) instructions in case of bootloop to disable/remove this module.
-- Custom MIUI mod ROMs (EU, VN, PL) might required latest DFE.
+- Custom MIUI mod ROMs (EU, VN, PL) might require latest DFE.
 
 ## Requirements: 
-- Android 5.0 - 12.0
+- Android 9.0 - 12.0
 - Magisk v20.0+
 - [Magisk-Manager for Recovery mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases)
 
