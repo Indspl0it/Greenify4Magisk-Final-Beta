@@ -9,23 +9,26 @@ Note:
 - Custom MIUI mod ROMs (EU, VN, PL) might require latest DFE.
 
 ## Requirements: 
-- Android 9.0 - 12.0
+- Android 9.0 - 14.0
 - Magisk v20.0+
 - [Magisk-Manager for Recovery mode](https://github.com/Rikj000/Magisk-Manager-for-Recovery-Mode/releases)
 
 ## Changelog?:
 All notable changes to this project will be documented in this file.
 
+### 2023-05-09
+- Greenify app updated to play store v5.0 beta
+- Support for A11 and A14
+
 ### 2022-08-03
 - Support for Magisk v23+
-- Greenify app updated to play store v4.7.8 beta (final release from dev)
+- Greenify app updated to play store v4.7.8 beta
 - Support for A11 and A12 - API level 32
 
 ### Changelog from Greenify beta
-- Works with Android 12 Beta.
-- All Xposed features removed.
-- Fixed alarm analysis in App Analyzer for apps in Island.
-- Fixed pop-up menu of selected app not reflecting the actual settings.
+- Support Shizuku for much smoother normal and (non-ROOT) shallow hibernation. (Permission needs to be granted in Shizuku Manager first)
+- Improved compatibility with Android 13.
+- Xposed features are now removed, due to compatibility reasons.
 
 ### 2020-05-30
 - Support for Magisk v20.0 +
